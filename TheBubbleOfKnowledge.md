@@ -2,13 +2,15 @@ The Bubble of Knowledge - Working Copy
 
 general info - this module is being designed for a party of 3 to 4 adventurers at level 2 but most of it can work for any level.
 
+
+
 Location overview
 	Floating Library surrounded by a magical bubble shield - the floating island is not visible on cloudy days
 	
 	INN - The Crater's Edge - built on the edge of the crater left by the library incident
 
 people (NPC)
-	Lizard Beastborn - Performer - has a ship that can fly to the library
+	Lizard Beastborn (Iguana) - Performer - has a ship that can fly to the library
 	Elf/orc - Proprietor of the INN - gives the quest to collect an item from the library. (this is a lie to trick the party into destroying the library)
 
 Scene 1
@@ -28,13 +30,16 @@ Encounter 1
 		
 	Monsters
 		5 small slime like bouncing ball creatures 
-		Resistances:  Elemental(Immune), Bludgeoning(Immune), 
-		Vulnerabilities: Slashing(2), Piercing(2)
-		Actions (3):
-		(1) Shove: pushes one square in the direction of the balls movement.
-			+1 - pushes an extra square
-		Reactions:
-		(1) Repel: When hit with melee Bludgeoning damage it can choose to push back the attacker one square
+| Ball Monster |  |
+| ------------- | ------------- |
+| Resistances: | Elemental(Immune), Bludgeoning(Immune) |
+| Vulnerabilities: | Slashing(2), Piercing(2) |
+| Senses: | Passive Awareness 10 |
+| **Actions (3):** ||
+|   (1) Shove:| pushes one square in the direction of the balls movement. |
+| | +1 - pushes an extra square |
+| **Reactions:** ||
+|   (1) Repel: | When hit with melee Bludgeoning damage it can choose to push back the attacker one square. |
 		
 	encounter Resolution
 		the 
