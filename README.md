@@ -3,9 +3,8 @@
 **This is a One-Shot module for the DC20 ttrpg system**
 
 ### Story Intro
-The party gets an invite to The Crater's Edge Inn to fufil a quest for the propritor. They are needed to retrieve an item from the library floating high above the city.
-The library coloquially know as the Bubble of Knowledge floats high above the city due to some past magical disaster.
-
+The party gets an invite to The Crater's Edge Inn to fufill a quest for the proprietor. They are needed to retrieve an item from the library floating high above the city.
+The library colloquially know as the Bubble of Knowledge floats high above the city due to some past magical disaster.
 
 
 ### Required Documents -not included in repo-
